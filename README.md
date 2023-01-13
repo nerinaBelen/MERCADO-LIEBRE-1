@@ -1,4 +1,4 @@
-# Estructura De Un Sitio Web
+# -Estructura De Un Sitio Web
 # Mockups del trabajo finalizado
 
 ![image](https://user-images.githubusercontent.com/118217155/208220466-ab72ed05-be6e-4d0b-a971-a5b4b65d2947.png)
